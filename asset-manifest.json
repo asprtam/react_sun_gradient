@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react_sun_gradient/static/css/main.e93c9f58.chunk.css",
+    "main.js": "/react_sun_gradient/static/js/main.ffaa5ad9.chunk.js",
+    "main.js.map": "/react_sun_gradient/static/js/main.ffaa5ad9.chunk.js.map",
+    "runtime-main.js": "/react_sun_gradient/static/js/runtime-main.72a5124d.js",
+    "runtime-main.js.map": "/react_sun_gradient/static/js/runtime-main.72a5124d.js.map",
+    "static/js/2.5f4c69f4.chunk.js": "/react_sun_gradient/static/js/2.5f4c69f4.chunk.js",
+    "static/js/2.5f4c69f4.chunk.js.map": "/react_sun_gradient/static/js/2.5f4c69f4.chunk.js.map",
+    "index.html": "/react_sun_gradient/index.html",
+    "precache-manifest.b8607608275fc30e3d418d9e347dbfec.js": "/react_sun_gradient/precache-manifest.b8607608275fc30e3d418d9e347dbfec.js",
+    "service-worker.js": "/react_sun_gradient/service-worker.js",
+    "static/css/main.e93c9f58.chunk.css.map": "/react_sun_gradient/static/css/main.e93c9f58.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72a5124d.js",
+    "static/js/2.5f4c69f4.chunk.js",
+    "static/css/main.e93c9f58.chunk.css",
+    "static/js/main.ffaa5ad9.chunk.js"
+  ]
+}
